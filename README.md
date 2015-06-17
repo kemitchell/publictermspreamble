@@ -39,7 +39,7 @@ The Preamble also works something like a source code package manager, pulling th
 
 When trading, say, futures on an exchange, agreements with the exchange and traditions in the industry provide the terms and context necessary to turn a simple confirmation or open-outcry order into a security with detailed, legally binding terms. In a private trading context, a master agreement, such as an ISDA Master Agreement between institutions, provides this context for short-form confirmations.
 
-The Preamble allows a document as terse as a confirmation or electronic order, which states the terms of a specific deal, to create the same kind of context for itself, just for that deal. The preamble brings in the terms of a form agreement published on the Internet that uses the terms defined in the agreement and fills in the rest of the legal gaps.
+The Preamble allows a document as terse as a confirmation or electronic order, which states the terms of a specific deal, to create the same kind of context for itself, just for that deal. The preamble brings in the terms of a form agreement published on the Internet and uses defined terms to fill in the blanks.
 
 [wiki-loader]: https://en.wikipedia.org/wiki/Loader_(computing)
 
