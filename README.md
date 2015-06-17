@@ -37,7 +37,7 @@ The Preamble also works something like a source code package manager, pulling th
 
 ### For finance professionals
 
-When trading, say, futures on an exchange, agreements with the exchange and traditions in the industry provide the terms and context necessary to turn a simple confirmation or open-outcry order into a security with detailed, legally binding terms. In a private trading context, a master agreement, such as an ISDA Master Agreement between institutions, provides this context for short-form confirmations.
+When trading, say, futures on an exchange, [exchange rules][cme-rules] provide the terms and context necessary to turn a simple confirmation or open-outcry order into a security with detailed, legally binding terms. In a private trading context, a master agreement, such as an [ISDA Master Agreement][isda-master] between institutions, provides this context for short-form confirmations.
 
 The Preamble allows a document as terse as a confirmation or electronic order, which states the terms of a specific deal, to create the same kind of context for itself, just for that deal. The preamble brings in the terms of a form agreement published on the Internet and uses defined terms to fill in the blanks.
 
@@ -48,3 +48,7 @@ The Preamble allows a document as terse as a confirmation or electronic order, w
 [mdn-bind]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
 
 [wiki-hash]: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+
+[cme-rules]: http://www.cmegroup.com/rulebook/CME/
+
+[isda-master]: https://en.wikipedia.org/wiki/ISDA_Master_Agreement
