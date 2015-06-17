@@ -3,6 +3,13 @@ Published Terms Preamble
 
 A standard contract preamble for agreement on published terms
 
+*WARNING*
+---------
+
+The Published Terms Preamble is highly experimental legal technology. It is not legal advice.
+
+Do not use without the advice and approval of an attorney.
+
 A _what_?
 ---------
 
