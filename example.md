@@ -20,4 +20,4 @@ This agreement (this "Agreement") is made between its two signatories  on the da
 
 - "Purchase Price" means $4,000.00.
 
-The terms of the Published Terms Preamble version 1.0.0, as published at https://preamble.obviousnda.org (Common Form fingerprint beginning "{insert the first six characters of the fingerprint for version 1.0.0}") is incorporated by reference.
+The terms of the Published Terms Preamble version 1.0.0, as published at https://preamble.obviousnda.org (Common Form fingerprint beginning "{insert the first six characters of the fingerprint for version 1.0.0}") are incorporated by reference.
