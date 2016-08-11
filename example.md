@@ -13,7 +13,7 @@ This agreement (this "Agreement") is made between its two signatories  on the da
 "Deal-Specific Terms" means the following definitions:
 
 - "Seller" means Steve Seller.
-	
+
 - "Buyer" means Bob Buyer.
 
 - "VIN" means "1M8GDM9A_KP042788".
